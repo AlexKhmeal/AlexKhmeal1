@@ -25,7 +25,10 @@ img{
 	font-weight: bold;
 }
 
-div{
+.left{
 	max-width: 50%;
 	float: left;
+	}
+.center{
+	overflow: hidden;
 }
